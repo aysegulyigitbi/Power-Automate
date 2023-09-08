@@ -20,6 +20,6 @@ Eğer Power Automate ile yeni tanışıyorsanız veya daha fazla bilgi edinmek i
 
 ## Katkıda Bulunma
 
-Eğer Power Automate ile ilgili örnek iş akışları, rehberler veya yeni özellikler eklemek isterseniz, lütfen katkıda bulunmaktan çekinmeyin. Nasıl katkıda bulunacağınız hakkında daha fazla bilgi için [Katkıda Bulunma Rehberi](CONTRIBUTING.md)ni inceleyin.
+Eğer Power Automate ile ilgili örnek iş akışları, rehberler veya yeni özellikler eklemek isterseniz, lütfen katkıda bulunmaktan çekinmeyin..
 
 **Not**: Bu repo yalnızca örnekler ve kaynaklar içermektedir ve resmi bir Microsoft ürünü veya hizmeti temsil etmemektedir.
