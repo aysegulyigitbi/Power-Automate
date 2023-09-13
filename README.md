@@ -2,7 +2,7 @@
 
 Günümüzde, iş dünyası veriye dayalı kararlar almanın önemini daha da iyi anlamış durumda. Power BI gibi güçlü bir veri analizi aracı, işletmelerin karmaşık verileri anlamalarına ve görselleştirmelerine yardımcı oluyor. Ancak verileri etkili bir şekilde paylaşma ve işbirliği yapma gerekliliği, bu süreci tamamlamak için başka bir boyut ekliyor. İşte tam bu noktada, "Power Automate" devreye giriyor. Bu makalede, Power Automate ile Power BI tablo verilerini CSV dosyası olarak e-postaya göndermenin nasıl yapıldığını öğreneceğiz. Ayrıca, bu yöntemin avantajlarına ve farklı sektörlerdeki kullanım alanlarına da bir göz atacağız.
 
-For english please click here: https://medium.com/nerd-for-tech/sending-power-bi-table-data-as-a-csv-file-via-email-with-power-automate-d194c77f9b3e
+**For english please click here:** https://medium.com/nerd-for-tech/sending-power-bi-table-data-as-a-csv-file-via-email-with-power-automate-d194c77f9b3e
 
 ![image](https://github.com/aysegulyigitbi/Power-Automate/assets/127193220/c322107c-9681-405d-a36f-5f7d8918654f)
 
